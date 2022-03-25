@@ -72,12 +72,12 @@ I'm 23-year-old boy on an intention to enhance as a Mobile engineer. I love buil
   <img src="https://github.com/hiepdth/Profile-Readme/blob/output/github-contribution-grid-snake.gif" alt="snake" width="100%"></center>
 </p>
 
-## My Trending Repos 💻
+<!-- ## My Trending Repos 💻
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&theme=tokyonight)](https://github.com/sourabmaity/DuckHuntGame-AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&theme=tokyonight)](https://github.com/sourabmaity/OpenCV_Basics) |
 | --- | --- |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&theme=tokyonight)](https://github.com/sourabmaity/JERVIS_AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&theme=tokyonight)](https://github.com/sourabmaity/AlgorithmsAndDataStructure) |
-
+ -->
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
