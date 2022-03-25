@@ -19,8 +19,8 @@ I'm 23-year-old boy on an intention to enhance as a Mobile engineer. I love buil
 ## Let's Connect
 
 [<img src='https://github.com/hiepdth/Profile-Readme/blob/main/icons8-linkedin-480.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/hiep-dinh-0415971b2/)&nbsp;
-[<img src='https://github.com/hiepdth/Profile-Readme/blob/main/icons8-github-480.png' alt='linkedin' height='50'>](https://github.com/hiepdth)&nbsp;
-[<img src='https://github.com/hiepdth/Profile-Readme/blob/main/icons8-facebook-480.png' alt='github' height='50'>]()&nbsp;  
+[<img src='https://github.com/hiepdth/Profile-Readme/blob/main/icons8-github-480.png' alt='github' height='50'>](https://github.com/hiepdth)&nbsp;
+[<img src='https://github.com/hiepdth/Profile-Readme/blob/main/icons8-facebook-480.png' alt='facebook' height='50'>](https://www.facebook.com/hiepdinh99/)&nbsp;  
 
 <img alt="Coding Gif" src="https://github.com/hiepdth/Profile-Readme/blob/main/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
